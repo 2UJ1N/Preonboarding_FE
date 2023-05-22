@@ -6,6 +6,8 @@
 
 사전 과제는 해당 레포지토리를 포크하여 진행해 주시면 됩니다.
 
+- [원본 레포지토리](https://github.com/blueStragglr/wanted-pre-onboarding-3-FE-quest)
+
 
 
 ### 만들어야 할 것
